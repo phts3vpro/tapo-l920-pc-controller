@@ -1,3 +1,12 @@
+> [!WARNING]
+> **Beta Release Notice (v2.0.0)**
+> This version includes major changes to the core lighting engine. It is currently in **experimental testing**.
+>
+> If you encounter bugs, connection issues, or if it simply doesn't work for you, please report them in the discussion thread below so I can fix them!
+>
+> 🔴 **[Report Bugs & Give Feedback Here (Reddit Thread)](https://www.reddit.com/r/Tapo/comments/1q4kirw/i_spent_20_hours_building_a_pc_dashboard_for_my/)**
+
+
 v2.0.0 - The Next Generation Update
 Tapo L920-5 Smart Light Controller v2.0.0 is a complete architectural rewrite. We have transitioned from a native Node.js backend to a robust Python Bridge, solving previous connection stability issues and introducing a massive suite of automation and monitoring features.
 
